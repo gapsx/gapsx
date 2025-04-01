@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm gaps! 👋
 
-<!--
-**gapsx/gapsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who loves to explore new technologies and create innovative solutions. Here's a bit more about me:
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages:** Python, JavaScript, TypeScript, C/C++, Assembly, Java & PHP
+- **Frameworks:** React, Node.js, Express, Django, Flask
+- **DevOps:** Docker, Kubernetes, CI/CD, AWS, GCP
+- **Databases:** MySQL, MongoDB, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Rust
+- Machine Learning
+- Blockchain Development
+
+## 📈 GitHub Stats
+![gapsx's GitHub stats](https://github-readme-stats.vercel.app/api?username=gapsx&show_icons=true&theme=radical)
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any projects or just want to chat about technology.
