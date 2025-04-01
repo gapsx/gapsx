@@ -8,11 +8,6 @@ I'm a passionate developer who loves to explore new technologies and create inno
 - **DevOps:** Docker, Kubernetes, CI/CD, AWS, GCP
 - **Databases:** MySQL, MongoDB, PostgreSQL
 
-## 🌱 Currently Learning
-- Rust
-- Machine Learning
-- Blockchain Development
-
 ## 📈 GitHub Stats
 ![gapsx's GitHub stats](https://github-readme-stats.vercel.app/api?username=gapsx&show_icons=true&theme=radical)
 
